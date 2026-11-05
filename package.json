@@ -2,9 +2,13 @@
   "name": "tp-typescript",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dis/01-introduccion.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "tsx watch src/01-introduccion.js",
+    "check": "tsc --noEmit",
+    "check:watch": "tsc --noEmit --watch",
+    "build": "tsc",
+    "start": "node --enable-source-maps dist/01-introduccion.js"
   },
   "repository": {
     "type": "git",
@@ -13,7 +17,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module",
+  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/aiimaraaaa/tp-typescript/issues"
   },
