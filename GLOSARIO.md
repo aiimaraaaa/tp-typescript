@@ -12,7 +12,7 @@
 
     npm run build // Este comando ejecuta tsc
 
-4. **tsx**: Es una herramienta que ejecuta archivos TypeScript directamente sin compilarlos antes y sin verificar los tipos. Es súper útil para probar rápido en desarrollo.
+4. **tsx**: Es una herramienta que ejecuta archivos TypeScript directamente sin compilarlos antes y sin verificar los tipos.
 
     npx tsx src/01-introduccion.ts
 

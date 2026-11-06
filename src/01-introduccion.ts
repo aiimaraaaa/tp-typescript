@@ -1,7 +1,7 @@
 export {};
 
 
-let mensaje: string = "TypeScript agrega tipado estático";
+let mensaje: string = "hola";
 console.log(mensaje);
 
 
