@@ -12,7 +12,7 @@
   Detecta errores mientras se escribe el código, mejora el autocompletado y la refactorización en el editor, hace el código más mantenible y escalable, y los tipos funcionan como documentación del propio código.
 
 - **¿Cuál es su versión actual?**
-  Según la guía de la cátedra (noviembre de 2026), la versión actual es TypeScript 7, lanzada el 8 de julio de 2026. Es una reescritura completa del compilador en Go, unas 10 veces más rápida.
+  la versión actual es TypeScript 7, lanzada el 8 de julio de 2026. Es una reescritura completa del compilador en Go, unas 10 veces más rápida.
 
 ## Tema 2: Crear y ejecutar un proyecto
 
@@ -90,5 +90,5 @@
 
 ## Fuentes consultadas
 
-- Guía teórica-práctica "Introducción a TypeScript" (Unidad 4, Instituto Politécnico Formosa).
+- Guía teórica-práctica "Introducción a TypeScript".
 - Documentación oficial de TypeScript: https://www.typescriptlang.org/docs/
